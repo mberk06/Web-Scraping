@@ -1,4 +1,4 @@
-# Date: Spring 2016
+# Date: Fall 2017
 # Author: Michael Berk
 # Description: This file will be used to acquire draft data from MLB.com
 
