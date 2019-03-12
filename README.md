@@ -1,5 +1,6 @@
 # Web-Scraping
 These are some of the files I developed to web-scrape NBA and MLB data.
+Note: these files may be out of date
 
 **NBABoxScoreScrape.py**
 - Date: Winter 2016
